@@ -50,6 +50,6 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 ### Passos para Configuração
 
 1. **Clonar o repositório:**
-   ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
-   cd nome-do-repositorio0
+   
+   git clone [https://github.com/davidteixeira23/Sistema-comercial-para-gestao-de-equipes/tree/main)
+   Sistema comercial para gestão de equipes
